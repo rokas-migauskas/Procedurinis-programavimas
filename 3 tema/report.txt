@@ -1,0 +1,210 @@
+QUERY1
+[22]
+Robert Kesting, Course - 1, Average: 0.00 Load: 0
+Languages: English Lithuanian
+
+Jim Sleight, Course - 1, Average: 0.00 Load: 0
+Languages: English
+
+Jim Gibbs, Course - 2, Average: 0.00 Load: 0
+Languages: English Lithuanian
+...
+
+QUERY2
+[880]
+Karl Brighthill, Course - 3, Average: 6.80 Load: 5
+Philosophy 9
+Operating systems 5
+Philosophy 7
+Philosophy 7
+Computer programming 6
+Languages: English Lithuanian
+
+Angelina Norman, Course - 4, Average: 9.25 Load: 4
+Discrete mathematics 10
+Physics 8
+Computer programming 9
+Operating systems 10
+Languages: English
+
+Richard King, Course - 4, Average: 6.17 Load: 6
+Discrete mathematics 4
+Physics 4
+Algebra 4
+Discrete mathematics 7
+Set theory 9
+Set theory 9
+Languages: English Russian
+...
+
+QUERY3
+[779]
+Karl Brighthill, Course - 3, Average: 6.80 Load: 5
+Philosophy 9
+Operating systems 5
+Philosophy 7
+Philosophy 7
+Computer programming 6
+Languages: English Lithuanian
+
+Richard King, Course - 4, Average: 6.17 Load: 6
+Discrete mathematics 4
+Physics 4
+Algebra 4
+Discrete mathematics 7
+Set theory 9
+Set theory 9
+Languages: English Russian
+
+Jamie Davison, Course - 2, Average: 6.60 Load: 5
+Physics 7
+Algebra 5
+Philosophy 5
+Algorithms 6
+Physics 10
+Languages: English Lithuanian
+...
+
+QUERY4
+[496]
+Karl Brighthill, Course - 3, Average: 6.80 Load: 5
+Philosophy 9
+Operating systems 5
+Philosophy 7
+Philosophy 7
+Computer programming 6
+Languages: English Lithuanian
+
+Jamie Davison, Course - 2, Average: 6.60 Load: 5
+Physics 7
+Algebra 5
+Philosophy 5
+Algorithms 6
+Physics 10
+Languages: English Lithuanian
+
+Betty Gibson, Course - 2, Average: 8.40 Load: 5
+Calculus 8
+Discrete mathematics 9
+Discrete mathematics 8
+Computer programming 8
+Physics 9
+Languages: English
+...
+
+QUERY5
+[251]
+Angelina Norman, Course - 4, Average: 9.25 Load: 4
+Discrete mathematics 10
+Physics 8
+Computer programming 9
+Operating systems 10
+Languages: English
+
+Richard King, Course - 4, Average: 6.17 Load: 6
+Discrete mathematics 4
+Physics 4
+Algebra 4
+Discrete mathematics 7
+Set theory 9
+Set theory 9
+Languages: English Russian
+
+George Doe, Course - 1, Average: 7.00 Load: 2
+Computer programming 4
+Computer programming 10
+Languages: English
+...
+
+QUERY6
+[658]
+Karl Brighthill, Course - 3, Average: 6.80 Load: 5
+Philosophy 9
+Operating systems 5
+Philosophy 7
+Philosophy 7
+Computer programming 6
+Languages: English Lithuanian
+
+Angelina Norman, Course - 4, Average: 9.25 Load: 4
+Discrete mathematics 10
+Physics 8
+Computer programming 9
+Operating systems 10
+Languages: English
+
+Richard King, Course - 4, Average: 6.17 Load: 6
+Discrete mathematics 4
+Physics 4
+Algebra 4
+Discrete mathematics 7
+Set theory 9
+Set theory 9
+Languages: English Russian
+...
+
+QUERY7
+[217]
+Betty Gibson, Course - 2, Average: 8.40 Load: 5
+Calculus 8
+Discrete mathematics 9
+Discrete mathematics 8
+Computer programming 8
+Physics 9
+Languages: English
+
+Charlie Damon, Course - 2, Average: 7.20 Load: 5
+Calculus 8
+Computer networks 7
+Calculus 7
+Set theory 8
+Algebra 6
+Languages: English Russian French Lithuanian
+
+Kylie Hat, Course - 3, Average: 7.67 Load: 3
+Computer programming 8
+Discrete mathematics 9
+Operating systems 6
+Languages: English Russian
+...
+
+QUERY12
+[2]
+Sole Norman, Course - 1, Average: 9.00 Load: 1
+Algorithms 9
+Languages: English Russian Spanish French Lithuanian
+
+Charlie Quarry, Course - 1, Average: 7.25 Load: 4
+Algorithms 6
+Operating systems 5
+Set theory 9
+Operating systems 9
+Languages: English Russian Spanish French Lithuanian
+
+QUERY15
+[13]
+Betty Druddle, Course - 2, Average: 10.00 Load: 2
+Algorithms 10
+Discrete mathematics 10
+Languages: English Spanish
+Alex Sleight, Course - 3, Average: 10.00 Load: 3
+Philosophy 8
+Operating systems 10
+Discrete mathematics 9
+Languages: English
+Kylie Brighthill, Course - 3, Average: 10.00 Load: 1
+Philosophy 10
+Languages: English Russian Spanish
+...
+
+QUERY18
+[0]
+
+
+
+
+
+
+
+
+
