@@ -1,3 +1,0 @@
-C:/Users/rokax/Desktop/C/1.1 uzd/cmake-build-debug/CMakeFiles/1_1_uzd.dir
-C:/Users/rokax/Desktop/C/1.1 uzd/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/rokax/Desktop/C/1.1 uzd/cmake-build-debug/CMakeFiles/rebuild_cache.dir
